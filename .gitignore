@@ -1,0 +1,69 @@
+# Project exclude paths
+/.gradle/
+/Contacts/task/build/
+/Contacts/task/out/
+/Contacts/task/out/production/classes/
+/Problems/Army/out/
+/Problems/Army/out/production/classes/
+/Problems/Builder/out/
+/Problems/Builder/out/production/classes/
+/Problems/Catching some exceptions/out/
+/Problems/Catching some exceptions/out/production/classes/
+/Problems/Check IP address/out/
+/Problems/Check IP address/out/production/classes/
+/Problems/Converting and multiplying/out/
+/Problems/Converting and multiplying/out/production/classes/
+/Problems/Count words/out/
+/Problems/Count words/out/production/classes/
+/Problems/Extracting big numbers from a text/out/
+/Problems/Extracting big numbers from a text/out/production/classes/
+/Problems/Extracting words from a text/out/
+/Problems/Extracting words from a text/out/production/classes/
+/Problems/Find all mondays/out/
+/Problems/Find all mondays/out/production/classes/
+/Problems/Find all passwords/out/
+/Problems/Find all passwords/out/production/classes/
+/Problems/Find mistake/out/
+/Problems/Find mistake/out/production/classes/
+/Problems/Find the nearest number/out/
+/Problems/Find the nearest number/out/production/classes/
+/Problems/From 0 to 4/out/
+/Problems/From 0 to 4/out/production/classes/
+/Problems/Get first and last elements/out/
+/Problems/Get first and last elements/out/production/classes/
+/Problems/Getting the fullname/out/
+/Problems/Getting the fullname/out/production/classes/
+/Problems/Illegal identifiers/out/
+/Problems/Illegal identifiers/out/production/classes/
+/Problems/In the middle of a word/out/
+/Problems/In the middle of a word/out/production/classes/
+/Problems/Individual taxes/out/
+/Problems/Individual taxes/out/production/classes/
+/Problems/Merging date-time instances/out/
+/Problems/Merging date-time instances/out/production/classes/
+/Problems/Number parsing/out/
+/Problems/Number parsing/out/production/classes/
+/Problems/Preparing full name/out/
+/Problems/Preparing full name/out/production/classes/
+/Problems/Remote Controller/out/
+/Problems/Remote Controller/out/production/classes/
+/Problems/Return time without seconds/out/
+/Problems/Return time without seconds/out/production/classes/
+/Problems/Seconds between two time points/out/
+/Problems/Seconds between two time points/out/production/classes/
+/Problems/Seconds since start of a day/out/
+/Problems/Seconds since start of a day/out/production/classes/
+/Problems/Start or end of a word/out/
+/Problems/Start or end of a word/out/production/classes/
+/Problems/Subway Sandwich/out/
+/Problems/Subway Sandwich/out/production/classes/
+/Problems/Swap the columns/out/
+/Problems/Swap the columns/out/production/classes/
+/Problems/The last day of a month/out/
+/Problems/The last day of a month/out/production/classes/
+/Problems/The passed hours since the beginning of year/out/
+/Problems/The passed hours since the beginning of year/out/production/classes/
+/Problems/Undo command/out/
+/Problems/Undo command/out/production/classes/
+/Problems/Vehicle registration number/out/
+/Problems/Vehicle registration number/out/production/classes/
